@@ -4,6 +4,7 @@ We are building a unified JavaScript toolchain to make web developers more produ
 
 ## Our Projects
 
+- [Vite+](https://github.com/voidzero-dev/vite-plus) - the unified toolchain for the web (vite successor)
 - [Vite](https://github.com/vitejs/vite) - the build tool for the web
 - [Vitest](https://github.com/vitest-dev/vitest) - Vite-native test runner
 - [Rolldown](https://github.com/rolldown/rolldown) - The fastest bundler
